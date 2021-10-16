@@ -167,4 +167,4 @@ do copy running-config startup-config
 
 | PC0 | PC7 |
 | --- | --- |
-| ![не пингует все настроено правильно]()| ![не пингует все настроено правильно]()|
+| ![](https://user-images.githubusercontent.com/66735783/137204672-1d98c8b2-b7ea-42e8-b5e8-eb2f53d99e7c.png)| ![](https://user-images.githubusercontent.com/66735783/137204693-0d3f21fc-f0dc-4034-8153-fa85dd2d12d2.png)|
